@@ -1,7 +1,15 @@
 # Automated-Network-Request-Management-in-ServiceNow
 This project focuses on creating an automated and efficient solution for handling network-related service requests within ServiceNow. The goal is to simplify how users request network services by providing a self-service portal that is easy to access and use.
+
 Through the Service Catalog, users can raise requests for network services in a structured and standardized way. Each request is captured with the necessary details, ensuring that information is complete and consistent before it moves forward. The system uses ServiceNow’s workflow engine, catalog items, and approval processes to validate requests and automatically route them to the right teams or approvers.
+
 Once a request is submitted, the workflow triggers automated notifications and assigns tasks to the relevant team members for fulfillment. For requests that require approval, the system ensures they are reviewed and approved before moving to the next stage. This structured approach reduces delays and errors that can occur with manual handling.
+
 A key advantage of this solution is its integration with automation tools and scripts. For common or standard network requests—such as access provisioning, configuration changes, or updates—the system can automatically execute fulfillment steps without requiring manual intervention. This reduces the workload on IT teams and speeds up resolution for end users.
+
 Additionally, automated updates and status notifications are sent to keep users informed throughout the process. Once tasks are completed and requests fulfilled, the system closes the request and notifies the requester that the issue has been resolved.
-By leveraging automation and streamlined workflows, this solution improves efficiency, ensures accuracy, and enhances user satisfaction. It minimizes repetitive manual tasks for IT staff, reduces turnaround times, and provides transparency into the progress of requests. Overall, the project delivers a modern, scalable approach to managing network service requests within ServiceNow.
+
+By leveraging automation and streamlined workflows, this solution improves efficiency, ensures accuracy, and enhances user satisfaction. It minimizes repetitive manual tasks for IT staff, reduces turnaround times, and provides transparency into the progress of requests. Overall, the project delivers a modern, scalable approach to managing network service requests within ServicmoeNow.
+
+Demo Video Link: https://drive.google.com/file/d/1nad_E_nltD4uVUDGUA8f2uOZ3GtBX91i/view?usp=sharing
+
